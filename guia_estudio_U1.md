@@ -1,0 +1,48 @@
+- **1- Defina el concepto de Proceso de Negocio. Ejemplifique y justifique**
+  - Definición: Conjunto de actividades relacionadas y ordenadas que transforman entradas en resultados específicos.
+    - Ejemplo: Proceso de venta: desde recibir pedido → facturación → entrega del producto.
+    - Justificación: Permite estandarizar y controlar actividades para lograr objetivos claros
+- **2- ¿Qué es la Gestión por Procesos?**
+  - Enfoque de administración centrado en identificar, analizar, mejorar y controlar los procesos de negocio para optimizar eficiencia y calidad.
+- 3- **¿Qué es la ISO 9001? ¿Para qué le sirve la certificación de la norma a las organizaciones?**
+  - Norma internacional para sistemas de gestión de calidad.
+  - Beneficio: Certificación demuestra que la organización cumple estándares de calidad, mejora la confianza de clientes y optimiza procesos internos.
+- 4- **Defina las características de los procesos de negocio.**
+  - Secuenciales y estructurados.
+  - Repetibles y medibles.
+  - Orientados a un resultado específico.
+  - Interrelacionados con otros procesos.
+  - Generan valor para clientes u organización.
+- 5- ¿Cuándo un proceso de negocio está automatizado? Explique y dé un ejemplo.
+  - Cuándo: Cuando se utilizan herramientas tecnológicas para ejecutar actividades sin intervención humana. Ejemplo: Sistema de facturación electrónica que genera y envía facturas automáticamente al cliente.
+- 6- ¿Por qué es necesario definir y conocer los procesos de negocio?
+  - Permite estandarización, eficiencia, control, identificación de mejoras y alineación con objetivos estratégicos.
+- 7- ¿Cómo modelamos la vista externa y cómo la vista interna de un proceso de negocio?.
+  - Vista externa (macro): Muestra el proceso desde fuera, enfoque en clientes y resultados (ej. diagrama de flujo de alto nivel).
+  - Vista interna (detalle): Muestra actividades, responsables y recursos involucrados dentro del proceso (ej. BPMN o mapa de procesos detallado).
+
+- 8- Realice la descripción narrada de un proceso de negocio que conozca o releve alguno que le parezca interesante, lo más detallada posible. Luego realice la definición del mismo utilizando el modelo de Vista Externa de un proceso.
+- 9- ¿Qué es un modelo y cuáles son las ventajas de su utilización?
+- **10- ¿Qué es un sistema de información?**
+- 11- ¿Qué relación existe entre los sistemas de información y los procesos de negocio?
+- 12- ¿Cuáles son los sistemas de información que dan soporte a los procesos de negocio? Explique y ejemplifique.
+- 13- Defina los tipos de procesos de negocio según su objetivo dentro de una organización. Ejemplifique
+- 14- ¿Qué es un Mapa de Procesos? Ejemplifique
+- 15- Explique las diferencias entre una regla de negocio y una restricción de un proceso de negocio. Ejemplifique.
+- 16- ¿Qué es BPM y qué BPMN?
+- 17- Describa los principales elementos de la nomenclatura de BPMN (actividad, evento, artefacto)
+- 18- ¿Qué representan los carriles en un diagrama de proceso de negocio BPMN? Ejemplifique.
+- 19- ¿Qué representa un cliente en el proceso de negocio? Ejemplifique
+- 20- ¿Qué representa un proveedor en el proceso de negocio? Ejemplifique
+- 21- ¿Un cliente puede ser también proveedor en un mismo proceso de negocio?
+- 22- ¿Cómo se extraen los requerimientos desde el modelado de procesos para el desarrollo de un sistema de información?
+- 23- Realice la descripción narrada de un proceso de negocio que conozca o releve alguno que le parezca interesante, lo más detallada posible. Luego realice el modelado del mismo utilizando BPMN.
+- 24- Realice un Mapa conceptual relacionando los conceptos tratados en la unidad 1
+- 25- Complete el siguiente cuadro: Defina el nombre y explique brevemente los siguientes símbolos utilizados en la notación de BPMN para el modelado de procesos de negocio:
+  - SIMBOLOS
+    - RELOJ
+    - ELECCION
+    - ELECCION COMPUESTO
+    - BASE DE DATOS
+    - DOCUMENTO
+    - ACTIVIDAD CON PERSONA
